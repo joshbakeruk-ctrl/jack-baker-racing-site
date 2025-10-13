@@ -18,14 +18,16 @@ export default function JackBakerRacingSite() {
   };
 
   const photos = [
-    "/images/kimbolton-apex.jpg",
-    "/images/kimbolton-panning.jpg",
-    "/images/kimbolton-entry.jpg",
-    "/images/pre-grid-closeup.jpg",
-    "/images/jack-offtrack.jpg",
-    "/images/helmet-focus.jpg",
+    "/image 1.jpg",
+    "/image 3.jpg",
+    "/IMG_1469.JPG",
+    "/TF_XKart2025_OnTrackOwner6060.jpg",
+    "/TF_XKart2025_OffTrack9581.jpg",
+    "/IMG_1668.jpg",
+    "/IMG_1474.JPG",
+    "/IMG_1467.JPG",
   ];
-
+  
   const results = [
     { event: "Kimbolton (Wet Final)", pos: "P2 + Fastest Lap", notes: "Strong pace in clean air" },
     { event: "TB Kart Int'l Final, Paris", pos: "P5 Overall", notes: "Qualified via 2024 Junior Pro title" },
