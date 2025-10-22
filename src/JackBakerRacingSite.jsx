@@ -56,8 +56,7 @@ export default function JackBakerRacingSite() {
               <span className="block text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-white to-blue-500">Racing</span>
             </h1>
             <p className="mt-5 text-lg text-white/80 max-w-xl">
-              Dyslexic & autistic — and laser-focused. 2024 Junior Pro Champion (Mr Karting), TB Kart International Finalist (Paris), and 2024 Overall Champion.
-            </p>
+              Dyslexic & autistic — and laser-focused. Competitive Junior X30 Driver | Track Record Holder | Aspiring Motorsport Engineer & Pro Racer            </p>
             <div className="mt-7 flex flex-wrap items-center gap-3">
               <a href="#contact" className="rounded-xl bg-white text-neutral-900 px-5 py-3 font-medium hover:bg-white/90 transition">Sponsor Jack</a>
               <a href="#results" className="rounded-1 ring-1 ring-white/20 px-5 py-3 font-medium hover:bg-white/10 transition inline-flex items-center gap-2">
