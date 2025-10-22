@@ -18,14 +18,13 @@ export default function JackBakerRacingSite() {
   };
 
   const photos = [
-    "/image 1.jpg",
-    "/image 3.jpg",
-    "/IMG_1469.JPG",
-    "/TF_XKart2025_OnTrackOwner6060.jpg",
-    "/TF_XKart2025_OffTrack9581.jpg",
-    "/IMG_1668.jpg",
-    "/IMG_1474.JPG",
-    "/IMG_1467.JPG",
+    "/Kim1.jpg",
+    "/Kim2.jpg",
+    "/Kim3.jpg",
+    "/Interview.jpg",
+    "/Shen1.jpeg",
+    "/Shen2.JPG",
+    "/Shen3.jpg",
   ];
   
   const results = [
