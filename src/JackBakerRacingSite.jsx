@@ -51,10 +51,24 @@ export default function JackBakerRacingSite() {
 <div className="absolute inset-0 bg-gradient-to-b from-[#0b1424]/70 to-[#0b1424] -z-10" />
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-24 md:py-32">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>
-            <p className="text-sm uppercase tracking-[0.2em] text-white/70">Junior X30 | Kart #45</p>
-            <h1 className="mt-3 text-4xl md:text-6xl font-extrabold leading-tight">Jack Baker
-              <span className="block text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-white to-blue-500">Racing</span>
-            </h1>
+            <div className="flex items-center gap-6 flex-wrap">
+  <img
+    src="/Image 2.jpg"
+    alt="Jack Baker Racing Logo"
+    className="h-20 md:h-28 object-contain"
+  />
+  <div>
+    <p className="text-sm uppercase tracking-[0.2em] text-white/70">
+      Junior X30 | Kart #45
+    </p>
+    <h1 className="mt-3 text-4xl md:text-6xl font-extrabold leading-tight">
+      Jack Baker
+      <span className="block text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-white to-blue-500">
+        Racing
+      </span>
+    </h1>
+  </div>
+</div>
             <p className="mt-5 text-lg text-white/80 max-w-xl">
               Dyslexic & autistic — and laser-focused. Competitive Junior X30 Driver | Track Record Holder | Aspiring Motorsport Engineer & Pro Racer            </p>
             <div className="mt-7 flex flex-wrap items-center gap-3">
