@@ -46,9 +46,9 @@ export default function JackBakerRacingSite() {
     <div className="min-h-screen bg-[#0b1424] text-neutral-50">
       {/* HERO */}
       <section id="home" className="relative overflow-hidden">
-        <img src="/images/kimbolton-apex.jpg" alt="Jack Baker racing at Kimbolton"
-          className="absolute inset-0 w-full h-full object-cover opacity-25 -z-10" />
-        <div className="absolute inset-0 bg-gradient-to-b from-[#0b1424]/60 to-[#0b1424] -z-10" />
+        <img  src="/jack-hero.jpg"  alt="Jack Baker Racing"
+ <div className="absolute inset-0 w-full h-full object-cover opacity-30 -z-10"/>
+<div className="absolute inset-0 bg-gradient-to-b from-[#0b1424]/70 to-[#0b1424] -z-10" />
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-24 md:py-32">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>
             <p className="text-sm uppercase tracking-[0.2em] text-white/70">Junior X30 | Kart #45</p>
